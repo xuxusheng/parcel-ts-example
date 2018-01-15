@@ -1,0 +1,1 @@
+使用 parcel 构建的基础开发环境，支持 ts、react

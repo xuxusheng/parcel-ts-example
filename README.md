@@ -1,1 +1,1 @@
-使用 parcel 构建的基础开发环境，支持 ts、react
+分支 `three`，使用 three.js 的示例

@@ -17,6 +17,16 @@
   version "16.0.34"
   resolved "http://registry.npm.taobao.org/@types/react/download/@types/react-16.0.34.tgz#7a8f795afd8a404a9c4af9539b24c75d3996914e"
 
+"@types/three@^0.89.2":
+  version "0.89.2"
+  resolved "http://npm.avlyun.org/@types/three/download/@types/three-0.89.2.tgz#bee96a6e795165314fc47d9fbfdb937c7908543c"
+  dependencies:
+    "@types/webvr-api" "*"
+
+"@types/webvr-api@*":
+  version "0.0.31"
+  resolved "http://npm.avlyun.org/@types/webvr-api/download/@types/webvr-api-0.0.31.tgz#f6061fe88a035d34a8b6a0c55f8758901ec8a08e"
+
 abbrev@1:
   version "1.1.1"
   resolved "http://npm.avlyun.org/abbrev/download/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -4117,6 +4127,10 @@ tar@^2.0.0, tar@^2.2.1:
     block-stream "*"
     fstream "^1.0.2"
     inherits "2"
+
+three@^0.89.0:
+  version "0.89.0"
+  resolved "http://npm.avlyun.org/three/download/three-0.89.0.tgz#4442d819a6168871b8d2cb37ad12a24310c170f5"
 
 timers-browserify@^2.0.4:
   version "2.0.4"
